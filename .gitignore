@@ -3,3 +3,5 @@ venv
 dev
 .idea
 dist
+*.pyc
+__pycache__
